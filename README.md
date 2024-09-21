@@ -40,14 +40,20 @@
 
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
-![image](https://github.com/user-attachments/assets/3c2a1b9f-09f7-42da-b4e6-4115a4c5324a)
+
+![image](https://github.com/user-attachments/assets/2287bdd4-465b-4549-9484-bc6e1f002f20)
 
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
 
+![image](https://github.com/user-attachments/assets/d0e8b5c3-87c3-414a-b306-2ae9e09046c5)
+
+
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
+
+Вы смотрите отчёт в GitHub
 
 ## Выводы
 
